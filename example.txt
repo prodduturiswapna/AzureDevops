@@ -1,3 +1,8 @@
 example1
 exampleline 2
+<<<<<<< HEAD
 exampleline5
+=======
+exampleline 3
+exampleline 4 
+>>>>>>> 770ba6f4ec70bd8795d778f03537df6acb7f2136
